@@ -4,12 +4,12 @@
 
 ### Formulário Basico 💀
   1. Demonstração dos itens:
-    * Button 
-    * Forms
-    * Label
-    * Input
-    * Select
-    * Textarea
+   * Button 
+   * Forms 
+   * Label
+   * Input
+   * Select
+   * Textarea
 
 ## Básico de CSS 🖼
   1. Herança
